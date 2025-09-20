@@ -1,6 +1,41 @@
 title: "Abdoulaye OUATTARA"
-logo: image.png
-description: "Portfolio Data Engineer – IA, Data Science, Formation"
-show_downloads: true
+logo: "image.png"   # Image de profil (mettre dans le dossier racine ou /assets/)
+description: >
+  Junior Data Engineer | Expert Data Manager | Data Analyst  
+  Passionné par la donnée, son traitement et sa valorisation pour la prise de décision.
+
 theme: jekyll-theme-minimal
 lang: fr
+
+# ⚙️ Options
+show_downloads: false   # Pas nécessaire si ce n’est pas une librairie
+google_analytics: UA-XXXXXXXXX-X   # (optionnel : ajoute ton ID Google Analytics)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 🌐 Réseaux sociaux (affichés dans le footer si activé par le thème)
+author:
+  name: NOM
+  email: ton.email@mail.com
+  linkedin: https://www.linkedin.com/in/tonlinkedin/
+  github: https://github.com/tonpseudo
+  twitter: https://twitter.com/tonpseudo   # facultatif
+
+# 🔗 Liens rapides (apparaissent sous forme de navigation)
+navigation:
+  - name: "Accueil"
+    link: /
+  - name: "Projets"
+    link: /projets
+  - name: "À propos"
+    link: /about
+  - name: "Contact"
+    link: /contact
+
+# 📑 SEO / métadonnées
+seo:
+  name: "NOM"
+  type: "Person"
+  description: "Portfolio de NOM – Junior Data Engineer, Expert Data Manager et Data Analyst."
+  twitter_card: "summary"
