@@ -1,7 +1,7 @@
 # 👨‍💻 Portfolio – [Ton Nom]
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Photo de profil" width="150" style="border-radius:50%;">
+  <img src="image.png" alt="Photo de profil" width="150" style="border-radius:50%;">
 </p>
 
 Bienvenue sur mon portfolio GitHub.  
