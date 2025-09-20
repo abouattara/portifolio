@@ -1,8 +1,4 @@
-# 👨‍💻 Portfolio – [Ton Nom]
-
-<p align="center">
-  <img src="https://via.placeholder.com/150" alt="Photo de profil" width="150" style="border-radius:50%;">
-</p>
+# 👨‍💻 Portfolio – Abdoulaye OUATTARA
 
 Bienvenue sur mon portfolio GitHub.  
 Je suis **Data Engineer & Développeur**, spécialisé dans la **gestion des données**, le **développement d’applications web et desktop**, ainsi que l’**analyse statistique avancée**.  
