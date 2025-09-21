@@ -1,6 +1,6 @@
 title: "Abdoulaye OUATTARA"
 logo: "photo.jpg"   # Image de profil (mettre dans le dossier racine ou /assets/)
-ddescription: "Junior Data Engineer | Expert Data Manager | Data Analyst" 
+description: "Junior Data Engineer | Expert Data Manager | Data Analyst" 
 
 theme: jekyll-theme-minimal
 lang: fr
