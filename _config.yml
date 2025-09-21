@@ -16,10 +16,10 @@ plugins:
 
 # 🌐 Réseaux sociaux (affichés dans le footer si activé par le thème)
 author:
-  name: NOM
+  name: Abdoulaye  OUATTARA
   email: ton.email@mail.com
-  linkedin: https://www.linkedin.com/in/tonlinkedin/
-  github: https://github.com/tonpseudo
+  linkedin: https://www.linkedin.com/in/abouattara/
+  github: https://github.com/abdouattara
   twitter: https://twitter.com/tonpseudo   # facultatif
 
 # 🔗 Liens rapides (apparaissent sous forme de navigation)
@@ -35,7 +35,7 @@ navigation:
 
 # 📑 SEO / métadonnées
 seo:
-  name: "NOM"
+  name: "Abdoulaye OUATTARA"
   type: "Person"
-  description: "Portfolio de NOM – Junior Data Engineer, Expert Data Manager et Data Analyst."
+  description: "Portfolio de Abdoulaye OUATTARA – Junior Data Engineer, Expert Data Manager et Data Analyst."
   twitter_card: "summary"
