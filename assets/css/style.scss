@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Add your custom styles below */
+body {
+  font-family: Arial, sans-serif;
+  color: white;
+}
+.profile-image {
+  margin-bottom: 1rem; /* space below image */
+}
+.profile-description {
+  margin-top: 0.5rem; /* space above description text */
+  line-height: 1.5; /* improve readability */
+}
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* center horizontally */
+}
