@@ -18,7 +18,7 @@ Mon objectif : concevoir des solutions fiables, performantes et adaptées aux be
 - [Maternal care project](https://github.com/abouattara/data-engineering/tree/main/maternal-health-project) – cas d'utlisation d'un planificateur de pipeline ELT réalisé dans un projet national de santé publique du centre MURAZ.
 - [Modélisation avec JAGS](https://abouattara.github.io/jags-model/) – Simulation **Bayésienne** avec le package rjags.  
 - [Package libelizeKobo R](https://abouattara.github.io/labelizeKobo/) – Packages **R** pour faciliter la lecture des données provenant des serveurs comme KOBO, ONA, ODK.
-- [Student Social Media data analysis](https://github.com/abouattara/data-science/blob/main/Social-Media-Addiction/SocialMedia_Data_analyst.ipynb) – Analyse de l'addiction des étudiants au réseaux sociaux.
+- [Student Social Media data analysis](https://github.com/abouattara/data-science/tree/main/Social-Media-Addiction) – Analyse de l'addiction des étudiants au réseaux sociaux.
 
 ---
 
