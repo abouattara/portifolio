@@ -1,39 +1,44 @@
-# 👨‍💻 Portfolio – Abdoulaye OUATTARA
+# Abdoulaye OUATTARA
 
 Bienvenue sur mon portfolio GitHub.  
-Je suis **Data Engineer & Développeur**, spécialisé dans la **gestion des données**, le **développement d’applications web et desktop**, ainsi que l’**analyse statistique avancée**.  
+Je suis **Junior Data Engineer & Développeur**, spécialisé dans la **gestion des données**, le **développement d’applications web et desktop**, ainsi que l’**analyse statistique avancée**.  
 
 Mon objectif : concevoir des solutions fiables, performantes et adaptées aux besoins métier.
 
 ---
 
-## 📂 Projets Sélectionnés
+## 📂 Projets réalisés
 
 ### 🌐 Développement Web & Mobile
-- [Portfolio Web Personnel](https://tonlien-portfolio.com) – Site vitrine présentant mes compétences et expériences.  
-- [Application de Chat Django](https://github.com/tonpseudo/chat-django) – Messagerie **en temps réel** avec authentification sécurisée.  
-- [App Mobile de Pointage (Flutter)](https://github.com/tonpseudo/pointage-flutter) – Application de **pointage biométrique** via empreinte digitale.  
+- [Portfolio Web Personnel](https://abouattara.perso.bf) – Site vitrine présentant mes compétences et expériences.  
+- [Suivi de candidature](https://abouattara.github.io/suivi-de-candidatures/) – Une appli python qui facilite la gestion de vos candidatures prévues pour postulé, déjà postulé, et vos notes sur le poste. 
+- [Pointage par Reconnaissance d'empreinte](https://github.com/abouattara/development/) – Application de **gestion de présence** via empreinte digitale (PySide6, PyQt5/6, SQLite).  
 
 ### 📊 Data Engineering & Analyse
-- [Modélisation VIH avec JAGS](https://github.com/tonpseudo/vih-bayesian-model) – Simulation **Bayésienne** pour évaluer l’impact d’interventions.  
-- [Outils Statistiques](https://github.com/tonpseudo/data-tools) – Scripts **R, Python, Stata** pour analyses et reporting automatisés.  
-
-### 🤖 Machine Learning & Vision par Ordinateur
-- [Pointage par Reconnaissance Faciale](https://github.com/tonpseudo/attendance-face-recognition) – Application de **gestion de présence** (PySide6, OpenCV, SQLite).  
+- [Modélisation avec JAGS](https://abouattara.github.io/jags-model/) – Simulation **Bayésienne** avec le package rjags.  
+- [Package libelizeKobo R](https://abouattara.github.io/labelizeKobo/) – Packages **R** pour faciliter la lecture des données provenant des serveurs comme KOBO, ONA, ODK.
+- [Student Social Media data analysis](https://github.com/abouattara/data-science/blob/main/Social-Media-Addiction/SocialMedia_Data_analyst.ipynb) – Analyse de l'addiction des étudiants au réseaux sociaux.
 
 ---
 
 ## 🛠️ Compétences Clés
-- **Langages** : Python, R, SQL, Stata, Flutter (Dart)  
-- **Frameworks** : Django, PySide6, Flask  
-- **Data** : ETL, Bases de données relationnelles, Modélisation bayésienne  
-- **Outils** : Git, Docker, Airflow, JAGS  
 
+- **Langages** : Python, R, Java, Bash, VBA
+- **Web** : HTML/CSS, JavaScript, PHP
+- **Analyse de données** : Stata, SPSS, RStudio
+- **DataViz** : Looker Studio, IBM Cognos, Tableau, power BI
+- **Bases de données** : MySQL, PostgreSQL, SQL, NoSQL
+- **Outils de collecte** : ODK, KoboToolbox, Redcap, DHIS2
+- **Big Data** : Apache Spark, Hadoop, MapReduce
+- **Streaming** : Apache Kafka
+- **Outils** : Git, Docker, Airflow  
+- **Texte & Docs** : Packs Office, LaTeX
+  
 ---
 
 ## 📬 Contact
-- ✉️ Email : [ton.email@mail.com](mailto:ton.email@mail.com)  
-- 💼 LinkedIn : [Mon Profil](https://www.linkedin.com/in/tonlinkedin/)  
+- ✉️ Email : [contact@abouattara.perso.bf](mailto:contact@abouattara.perso.bf)  
+- 💼 LinkedIn : [Mon Profil](https://www.linkedin.com/in/abouattara/)  
 
 ---
 
