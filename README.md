@@ -1,46 +1,52 @@
-# Abdoulaye OUATTARA
+# 👋 Hello | Bonjour !
 
-Welcome to my GitHub portfolio.  
-I am a **Junior Data Engineer & Developer** specializing in **data management**, **web and desktop application development**, and **advanced statistical analysis**.  
-
-My goal: to design reliable, high-performance solutions tailored to business needs.
+🇬🇧 [Switch to English](#english-version)  
+🇫🇷 [Passer en Français](#version-française)
 
 ---
 
-## 📂 Completed projects
+## English Version
 
-### 🌐 Development
-- [Personal Web Portfolio](https://abouattara.perso.bf) – Showcase website presenting my skills and experience.  
-- [Application Tracking](https://abouattara.github.io/suivi-de-candidatures/) – A Python application that facilitates **the management of your applications** planned, already submitted, and **your notes on the position**. 
-- [Fingerprint Recognition Time Tracking](https://github.com/abouattara/development/) – **Attendance management** application using fingerprints (PySide6, PyQt5/6, SQLite).
+### About Me
+Hi, I'm **Abdoul Ouat**, a passionate **Data Engineer | Senior Data Manager | Data Analyst** with expertise in:
+- Health Informatics & Data Governance
+- System Integration & Data Pipelines
+- Cloud & Big Data Solutions (Azure, AWS, Spark, Hadoop)
+- Advanced Analytics & Visualization (Python, R, Power BI, Tableau)
 
-### 📊 Data
-- [Maternal care project](https://github.com/abouattara/data-engineering/tree/main/maternal-health-project) – Use case for **ELT pipeline planner** implemented in a national **public health** project.
-- [Modeling with JAGS](https://abouattara.github.io/jags-model/) – **Bayesian** simulation with the rjags package.  
-- [libelizeKobo R package](https://abouattara.github.io/labelizeKobo/) – **R package** to facilitate **reading data** from servers such as **KOBO, ONA, ODK**.
-- [Student Social Media data analysis](https://github.com/ab
+### Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+...
 
-- [Student Social Media data analysis](https://github.com/abouattara/data-science/tree/main/Social-Media-Addiction) – Analysis of students' addiction to social media.
-
----
-
-## 🛠️ Key Skills
-
-- **Languages**: Python, R, Java, Bash, VBA
-- **Web**: HTML/CSS, JavaScript, PHP
-- **Data analysis**: Stata, SPSS, RStudio
-- **Data visualization**: Looker Studio, IBM Cognos, Tableau, Power BI
-- **Databases**: MySQL, PostgreSQL, SQL, NoSQL
-- **Data collection tools**: ODK, KoboToolbox, Redcap, DHIS2
-- **Big Data**: Apache Spark, Hadoop, MapReduce
-- **Streaming**: Apache Kafka
-- **Tools**: Git, Docker, Airflow
-- **Text & Docs**: Office Suites, LaTeX
+### Featured Projects
+- 🚀 [ETL Pipeline in Python](github.com/username/project)
+- 📊 [Data Quality Dashboard](github.com/username/project)
 
 ---
 
-## 📬 Contact
-- ✉️ Email: [contact@abouattara.perso.bf](mailto:contact@abouattara.perso.bf)  
-- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/abouattara/)  
+## Version Française
+
+### À propos
+Bonjour, je suis **Abdoul Ouat**, expert en **Data Engineering | Gestion des données | Analyse de données** avec une solide expérience en :
+- Informatique de santé & Gouvernance des données
+- Intégration des systèmes & pipelines de données
+- Solutions Cloud & Big Data (Azure, AWS, Spark, Hadoop)
+- Analyse avancée & visualisation (Python, R, Power BI, Tableau)
+
+### Stack Technique
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+...
+
+### Projets phares
+- 🚀 [Pipeline ETL en Python](github.com/username/project)
+- 📊 [Dashboard de qualité des données](github.com/username/project)
 
 ---
+
+## 📫 Contact
+- ✉️ Email: your.email@example.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🌐 [Portfolio Website](https://yourportfolio.com)
