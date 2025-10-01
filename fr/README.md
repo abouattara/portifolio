@@ -1,5 +1,5 @@
 # Abdoulaye OUATTARA
-
+[English version](./fr/README.md)  
 Bienvenue sur mon portfolio GitHub.  
 Je suis **Junior Data Engineer & Développeur**, spécialisé dans la **gestion des données**, le **développement d’applications web et desktop**, ainsi que l’**analyse statistique avancée**.  
 
