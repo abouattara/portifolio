@@ -3,6 +3,8 @@
 This is my **GitHub Profile Portfolio**.  
 Ce dépôt contient mon **portfolio GitHub**.  
 
+[![English](https://img.shields.io/badge/Readme-English-blue)](./README_eng.md)
+
 [![Français](https://img.shields.io/badge/Lire_en_Français-green)](./fr/README.md)
 
 ---
