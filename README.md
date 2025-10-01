@@ -1,7 +1,7 @@
 # 👋 Welcome | Bienvenue
 
 This is my **GitHub Profile Portfolio**.  
-Ce dépôt contient mon **portfolio GitHub**.  
+> Ce dépôt contient mon **portfolio GitHub**.  
 
 [![English](https://img.shields.io/badge/Readme-English-blue)](/https://abouattara.github.io/portifolio/) [![Français](https://img.shields.io/badge/Lire_en_Français-green)](https://github.com/abouattara/portifolio/tree/main/fr)
 
@@ -10,7 +10,7 @@ Ce dépôt contient mon **portfolio GitHub**.
 ## 🚀 About Me | À propos
 **Data Engineer | Senior Data Manager | Data Analyst**  
 I build robust data pipelines, manage data governance, and turn raw information into insights.  
-Je conçois des pipelines robustes, gère la gouvernance des données et transforme les données en insights exploitables.  
+> Je conçois des pipelines robustes, gère la gouvernance des données et transforme les données en insights exploitables.  
 
 ---
 
