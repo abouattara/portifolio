@@ -16,7 +16,7 @@ Je conçois des pipelines robustes, gère la gouvernance des données et transfo
 
 ## 🌟 Featured Projects | Projets phares
 
-- 🚀 [Maternal care project](https://github.com/abouattara/data-engineering/tree/main/maternal-health-project) – Use case for **ELT pipeline planner** implemented in a national **public health** project.
+- 🚀 [Maternal care project](https://github.com/abouattara/data-engineering/tree/main/maternal-health-project) – Use case of **ELT pipeline planner** implemented in a national **public health** project.
 - 📊 [Modeling with JAGS](https://abouattara.github.io/jags-model/) – **Bayesian** simulation with the rjags package.  
 - 📊 [libelizeKobo R package](https://abouattara.github.io/labelizeKobo/) – **R package** to facilitate **reading data** from servers such as **KOBO, ONA, ODK**.
 - 📊 [Student Social Media data analysis](https://github.com/ab
